@@ -14,7 +14,7 @@ Weekend       | worked through variety of AngularJS tutorials to learn framework
 
 Day           | Tasks
 ------------- | -------------
-Monday        | Attempted AngularJS but switching to React front-end, initializing React front-end with routing
+Monday        | Attempted AngularJS but switching to React front-end; initializing React front-end with routing
 Tuesday       | 
 Wednesday     | 
 Thursday      | 
