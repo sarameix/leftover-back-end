@@ -15,7 +15,7 @@ Weekend       | worked through variety of AngularJS tutorials to learn framework
 Day           | Tasks
 ------------- | -------------
 Monday        | Attempted AngularJS but switching to React front-end; initializing React front-end with routing; starting up work on ingredient pages with CRUD
-Tuesday       | 
+Tuesday       | Finished up full CRUD for ingredients with pop-ups for each; deployed current version of front-end to Netlify 
 Wednesday     | 
 Thursday      | 
 Friday        | 
