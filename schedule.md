@@ -16,7 +16,7 @@ Day           | Tasks
 ------------- | -------------
 Monday        | Attempted AngularJS but switching to React front-end; initializing React front-end with routing; starting up work on ingredient pages with CRUD
 Tuesday       | Finished up full CRUD for ingredients with pop-ups for each; deployed current version of front-end to Netlify 
-Wednesday     | 
-Thursday      | 
-Friday        | 
+Wednesday     | Formatted recipe information to be displayed on recipes page; handle query request and display of recipe data from third party API for recipe suggestions
+Thursday      | Recipes suggestions can be saved to user's recipe library; adding or deleting ingredient updates matched and remaining ingredients on user's recipe's page
+Friday        | Ensured everything was functioning properly; made website responsive on mobile; got spinner working as data loads
 Weekend       | 
